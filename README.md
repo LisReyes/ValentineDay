@@ -10,6 +10,6 @@
 - Third color:
   - #9A1663
 
-[Valentine's Day](https://www.example.com)https://lisreyes.github.io/ValentineDay/
+[Valentine's Day] (https://www.example.com)https://lisreyes.github.io/ValentineDay/
 
 #### Lis Reyes.
